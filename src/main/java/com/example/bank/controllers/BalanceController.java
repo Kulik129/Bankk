@@ -1,4 +1,4 @@
-package com.example.bank;
+package com.example.bank.controllers;
 
 import com.example.bank.models.TransferBalance;
 import com.example.bank.service.BankService;
